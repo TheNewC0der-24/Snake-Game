@@ -4,7 +4,7 @@
 Yes, I know we all have played the Snake Game and definitely, we never wanted to lose. As kids, we all loved looking for cheats in order to never see the “Game Over” message. 
 
 I create this game using a Python Library i.e., is pygame. 
-You can install this library using 'pip install pygame' from you cmd or terminal.
+You can install this library using 'pip install pygame' from your cmd or terminal.
 
 # HOW TO MAKE THIS GAME ?
   1. Installing Pygame
