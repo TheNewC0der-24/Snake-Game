@@ -1,12 +1,12 @@
-# Snake-Game
+<h1 align='center'>Snake-Game</h1>
 
-# ABOUT
+## ABOUT
 Yes, I know we all have played the Snake Game and definitely, we never wanted to lose. As kids, we all loved looking for cheats in order to never see the “Game Over” message. 
 
 I create this game using a Python Library i.e., is pygame. 
 You can install this library using 'pip install pygame' from your cmd or terminal.
 
-# HOW TO MAKE THIS GAME ?
+## HOW TO MAKE THIS GAME ?
   1. Installing Pygame
   2. Create the Screen
   3. Create the Snake
@@ -16,7 +16,7 @@ You can install this library using 'pip install pygame' from your cmd or termina
   7. Increasing the Length of the Snake
   8. Displaying the Score
   
-# HOW TO PLAY ?
+## HOW TO PLAY ?
   1. Press Spacebar to Start the Game.
   2. Game Window open; <br>
      Then to move snake use up arrow key to move your snake upwards, down arrow key to move your snake downwards, from left arrow key to move your snake leftwards and from right arrow key move you snake towards right.
@@ -26,7 +26,7 @@ You can install this library using 'pip install pygame' from your cmd or termina
   6. In this game, there is a cheat button also i.e., 'q'. <br>
      When you press 'q' your current score will be increased.
      
- # HOME WINDOW
+ ## Preview
  ![image](https://github.com/TheNewC0der-24/Snake-Game/blob/main/Home%20WIndow.png)
  
- Check this Out!! Hope You like this GAME :)
+ <p align='center'>Check this Out!! Hope You like this GAME :)</p>
