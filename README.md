@@ -17,7 +17,7 @@ You can install this library using 'pip install pygame' from your cmd or termina
   8. Displaying the Score
   
 ## HOW TO PLAY ?
-  1. Press Spacebar to Start the Game.
+  1. Press `Spacebar` to Start the Game.
   2. Game Window open; <br>
      Then to move snake use up arrow key to move your snake upwards, down arrow key to move your snake downwards, from left arrow key to move your snake leftwards and from right arrow key move you snake towards right.
   3. On Game's Window you we see your current score and High score.
@@ -27,6 +27,10 @@ You can install this library using 'pip install pygame' from your cmd or termina
      When you press 'q' your current score will be increased.
      
  ## Preview
- ![image](https://github.com/TheNewC0der-24/Snake-Game/blob/main/Home%20WIndow.png)
+ <a>
+ <img src="https://github.com/TheNewC0der-24/Snake-Game/blob/main/Home%20WIndow.png" width="800"></img>
+ </a>
  
- <p align='center'>Check this Out!! Hope You like this GAME :)</p>
+ ---
+ <h3 align='center'>Check this Out!! Hope You like this GAME :)</h3>
+ <h4 align='center'>Show some ❤️ by ⭐ this repository</h4>
